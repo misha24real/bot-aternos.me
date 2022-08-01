@@ -1,5 +1,5 @@
 {
-    "ip": "lol24misha.aternos.me",
+    "ip": "185.116.157.56",
     "port": 14466,
     "name": "pivenr123456G",
     "auto-night-skip": "false",
@@ -9,6 +9,6 @@
     "custom-message-1": "subscribe to LION BOY",
     "custom-message-2": "subscribe to LION BOY",
     "login-enabled": "true",
-    "register-cmd": "/register 12gbth80G! 12gbth80G!",
+    "register-cmd": "/register gbth80G! gbth80G!",
     "login-cmd": "/login 12gbth80G!"
 }
