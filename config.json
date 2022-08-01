@@ -9,6 +9,6 @@
     "custom-message-1": "subscribe to LION BOY",
     "custom-message-2": "subscribe to LION BOY",
     "login-enabled": "true",
-    "register-cmd": "/register 12gbth80 12gbth80",
-    "login-cmd": "/login 12gbth80"
+    "register-cmd": "/register 12gbth80G! 12gbth80G!",
+    "login-cmd": "/login 12gbth80G!"
 }
